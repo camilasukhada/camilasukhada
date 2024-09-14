@@ -1,4 +1,4 @@
-<img src='https://avatars.githubusercontent.com/u/146760773?v=4' />
+<td align="center"><a href="https://github.com/camilasukhada"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/146760773?v=4" width="200px;" alt=""/><br /></a><br /></td>
 
 # Olá, sou a Camila.
 <img src='banner.jpg'>
