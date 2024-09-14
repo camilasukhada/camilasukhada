@@ -1,4 +1,4 @@
-<img src='https://images.weserv.nl/?url=github.com/camilasukhada.png?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d' />
+<img src='https://avatars.githubusercontent.com/u/146760773?v=4' />
 
 # Olá, sou a Camila.
 <img src='banner.jpg'>
